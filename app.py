@@ -1,6 +1,6 @@
 import os
 import pickle
-import cv2 as cv
+import cv2 
 import numpy as np
 import pandas as pd
 import seaborn as sns
@@ -87,14 +87,14 @@ with container:
     opencv_image = []
     if uploaded_file is not None:
         file_bytes = np.asarray(bytearray(uploaded_file.read()), dtype=np.uint8)
-        opencv_image = cv.imdecode(file_bytes, 1)
-        img = cv.resize(opencv_image, (224,224))
+        opencv_image = cv2.imdecode(file_bytes, 1)
+        img = cv2.resize(opencv_image, (224,224))
         # img = cv.cvtColor(img, cv.COLOR_BGR2RGB)
         st.image(img, channels="BGR")
 
         def output(img,model,label=''):
-            img = cv.resize(img, (224,224))
-            img = cv.cvtColor(img, cv.COLOR_BGR2RGB)
+            img = cv2.resize(img, (224,224))
+            img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
             fig = plt.figure(figsize=(5,5),dpi=10)
             plt.imshow(img)
             img=np.expand_dims(img,[0])
