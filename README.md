@@ -8,7 +8,7 @@
 
 <!-- Title -->
 <h1 align="center">
-  <b>CS523.M21.KHCL - CẤU TRÚC DỮ LIỆU VÀ GIẢI THUẬT NÂNG CAO</b>
+  <b>CS523.M21.KHCL - NHẬN DẠNG</b>
 </h1>
 
 <!-- Body -->
