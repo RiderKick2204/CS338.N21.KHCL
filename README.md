@@ -8,7 +8,7 @@
 
 <!-- Title -->
 <h1 align="center">
-  <b>CS523.M21.KHCL - NHẬN DẠNG</b>
+  <b>CS338.N21.KHCL - NHẬN DẠNG</b>
 </h1>
 
 <!-- Body -->
