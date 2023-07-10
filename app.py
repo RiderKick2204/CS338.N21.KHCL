@@ -75,7 +75,7 @@ labels = {
 
 #Load retrained MobileNetV2 model
 model1 = keras.models.load_model('MB_V2_0709.h5')
-# model2 = keras.models.load_model('VGG16.h5')
+model2 = keras.models.load_model('fruit_classifier_vgg16.h5')
 
 sidebar = st.sidebar
 
@@ -114,7 +114,7 @@ with container:
         with col1:
             st.write(output(opencv_image,model1))
         with col2:
-            # st.write(output(opencv_image,model2))
+            st.write(output(opencv_image,model2))
             st.write("---------------------")
     
    
