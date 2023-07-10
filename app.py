@@ -103,7 +103,7 @@ with container:
             y = " ".join(str(x) for x in y_class)
             y = int(y)
             res = labels[y]
-            S = ['Predict label' + res]
+            S = ['Predicted: ' + res]
             # for i in range(len(answer[0])):
             #     S.append(labels[i] + ': ' + str("{0:.2%}".format(answer[0][i])))
             if (label):
