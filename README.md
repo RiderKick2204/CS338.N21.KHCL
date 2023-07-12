@@ -36,13 +36,3 @@
 
 ## CHỦ ĐỀ BÁO CÁO
 * **Tên chủ đề:** Fruits fresh and rotten for classification 
-* **Thứ tự báo cáo:** 13
-
-<!-- 
-Giới thiệu
- 
-## ĐỒ ÁN MÔN HỌC
-DEMO
-SLIDE
-BÀI TẬP
--->
