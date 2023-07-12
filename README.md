@@ -31,7 +31,7 @@
 |:----|:-------|:----:|:------:|:------:|
 | 1 | Phạm Phước An | 20520375 | 20520375@gm.uit.edu.vn | https://github.com/RiderKick2204/ |
 | 2 | Hoàng Công Danh | 20520431 | 20520431@gm.uit.edu.vn | https://github.com/DanhHoang2304 |
-| 3 | Tống Phúc Thịnh | 20520785 | 20520785@gm.uit.edu.vn | 
+| 3 | Tống Phúc Thịnh | 20520785 | 20520785@gm.uit.edu.vn | https://github.com/Snallz121 |
 
 
 ## CHỦ ĐỀ BÁO CÁO
