@@ -74,7 +74,7 @@ labels = {
         5: 'rottenoranges'}
 
 #Load retrained MobileNetV2 model
-model1 = keras.models.load_model('MB_V2_0709.h5')
+model1 = keras.models.load_model('MB_V2[224x224][3].h5')
 model2 = keras.models.load_model('fruit_classifier_vgg16.h5')
 
 sidebar = st.sidebar
